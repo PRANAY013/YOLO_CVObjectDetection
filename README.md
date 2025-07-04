@@ -1,14 +1,3 @@
-Absolutely! For a **project showcase README** (not a public codebase for others to clone), you want to focus on:
-
-- **Project summary and motivation**
-- **Technologies used**
-- **Workflow and pipeline**
-- **Key files and structure**
-- **Progress, improvements, and results**
-- **Challenges and what you learned**
-
-Below is a tailored README template you can use for your portfolio or as a project report:
-
 # YOLOv8-Powered Real-Time Multi-Class Traffic Detection System
 
 ## 🚦 Project Overview
@@ -107,6 +96,3 @@ YOLO_CVObjectDetection/
 *Pranay*  
 *YOLOv8 Traffic Detection Project*  
 *July 2025*
-
-**This README is designed to showcase your workflow, decisions, and results—perfect for a portfolio, report, or documentation!**  
-Feel free to personalize further or ask for a more detailed section on any part (e.g., analytics, tracking, challenges, etc.).
