@@ -1,4 +1,4 @@
-# YOLOv8-Powered Real-Time Multi-Class Traffic Detection System
+# YOLOv8-Powered Real-Time Multi-Class Object Detection System
 
 ## 🚦 Project Overview
 
