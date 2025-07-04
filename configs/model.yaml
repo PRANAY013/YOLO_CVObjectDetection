@@ -1,0 +1,8 @@
+# Example YOLOv8 config for custom traffic classes
+path: ../data/augmented
+train: train/images
+val: val/images
+test: test/images
+
+nc: 5  # number of classes (adjust as needed)
+names: ['car', 'bus', 'truck', 'bike', 'person']

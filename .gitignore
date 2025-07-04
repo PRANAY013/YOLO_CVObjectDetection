@@ -1,0 +1,29 @@
+# Ignore all data and model folders
+models/yolov8_custom/weights
+data/raw/
+data/annotations
+*.csv
+
+# Ignore common model weight files
+*.pt
+*.h5
+*.ckpt
+*.onnx
+*.pb
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.venv/
+venv/
+ENV/
+env/
